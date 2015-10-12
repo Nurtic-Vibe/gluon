@@ -11,10 +11,10 @@
 
 @charset "utf-8";
 
-$ffyellow:  #ffb400;
-$ffmagenta: #dc0067;
-$ffzusatz:  #009ee0;
-$red:       #ee3300;
+$ffyellow:  #dddddd;
+$ffmagenta: #52995d;
+$ffzusatz:  #009ec1;
+$red:       #f56363;
 
 @mixin button {
   &::-moz-focus-inner {
